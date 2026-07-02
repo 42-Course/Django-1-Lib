@@ -1,0 +1,18 @@
+Collecting path
+  Cloning https://github.com/jaraco/path.git to /tmp/pip-install-v746ks69/path_9af1f8978eb448b484cd0508b27df309
+  Running command git clone --filter=blob:none --quiet https://github.com/jaraco/path.git /tmp/pip-install-v746ks69/path_9af1f8978eb448b484cd0508b27df309
+  Resolved https://github.com/jaraco/path.git to commit 67319bba24b0986abcf6c5a749a1b8ab6359bb22
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: path
+  Building wheel for path (pyproject.toml): started
+  Building wheel for path (pyproject.toml): finished with status 'done'
+  Created wheel for path: filename=path-17.1.2.dev11+g67319bba2-py3-none-any.whl size=25062 sha256=258fe03d895db8e0bb7109243051f08c6ff3c10e68744b2233c88a7f7b58ac6a
+  Stored in directory: /tmp/pip-ephem-wheel-cache-a5vhu60h/wheels/8e/2a/f9/89932a173e562461d75eda9daa7d1d8191fc502c14216b084c
+Successfully built path
+Installing collected packages: path
+Successfully installed path-17.1.2.dev11+g67319bba2
